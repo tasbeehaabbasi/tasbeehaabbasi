@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=header" width="100%" alt="header banner"/>
+
 # Tasbeeha Moeed Abbasi
 
 ### 📊 Data Science Student &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; ML Explorer
@@ -8,9 +10,15 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tasbeehaabbasi&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=16161e)](https://www.linkedin.com/in/tasbeeha-abbasi-382045348)
-[![GitHub Followers](https://img.shields.io/github/followers/tasbeehaabbasi?label=FOLLOW&style=for-the-badge&color=1a1b27&logo=github&logoColor=7dcfff&labelColor=16161e)](https://github.com/tasbeehaabbasi)
+<a href="https://github.com/tasbeehaabbasi">
+  <img src="https://hits.sh/github.com/tasbeehaabbasi.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7AA2F7&labelColor=1a1b27" alt="Profile Views"/>
+</a>
+<a href="https://www.linkedin.com/in/tasbeeha-abbasi-382045348">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=16161e" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/tasbeehaabbasi">
+  <img src="https://img.shields.io/github/followers/tasbeehaabbasi?label=FOLLOW&style=for-the-badge&color=1a1b27&logo=github&logoColor=7dcfff&labelColor=16161e" alt="GitHub Followers"/>
+</a>
 
 </div>
 
@@ -40,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=tasbeehaabbasi&theme=tokyonight&hide_border=true&background=1a1b27&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=tasbeehaabbasi&theme=tokyonight&hide_border=true&background=1a1b27&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff" width="70%" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -66,7 +74,7 @@
 </tr>
 <tr>
 <td>📉 <b>Customer Churn Analysis</b></td>
-<td>End-to-end churn modeling — ERD design, normalization & feature engineering, powering a Power BI dashboard</td>
+<td>End-to-end churn modeling — ERD design, normalization &amp; feature engineering, powering a Power BI dashboard</td>
 <td>Python, SQL, Power BI</td>
 </tr>
 <tr>
@@ -84,13 +92,13 @@
 
 <table>
 <tr>
-<td align="center" style="font-size:40px;">🧩</td>
-<td align="center" style="font-size:28px;">➜</td>
-<td align="center" style="font-size:40px;">🔍</td>
-<td align="center" style="font-size:28px;">➜</td>
-<td align="center" style="font-size:40px;">⚡</td>
-<td align="center" style="font-size:28px;">➜</td>
-<td align="center" style="font-size:40px;">✅</td>
+<td align="center"><h1>🧩</h1></td>
+<td align="center"><h2>➜</h2></td>
+<td align="center"><h1>🔍</h1></td>
+<td align="center"><h2>➜</h2></td>
+<td align="center"><h1>⚡</h1></td>
+<td align="center"><h2>➜</h2></td>
+<td align="center"><h1>✅</h1></td>
 </tr>
 <tr>
 <td align="center"><b>Stuck</b></td>
@@ -141,11 +149,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tasbeeha-abbasi-382045348">
-    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=16161e" />
+    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=16161e" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/tasbeehaabbasi">
-    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7dcfff" />
+    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7dcfff" alt="GitHub"/>
   </a>
 </p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" alt="footer banner"/>
