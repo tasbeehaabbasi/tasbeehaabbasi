@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=34&duration=1&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=60&repeat=false&lines=Tasbeeha+Moeed+Abbasi" alt="Tasbeeha Moeed Abbasi"/>
+<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=34&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&repeat=false&lines=Tasbeeha+Moeed+Abbasi" alt="Tasbeeha Moeed Abbasi"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=400&size=17&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=35&repeat=false&lines=Data+Science+Student+%C2%B7+Data+Analyst+%C2%B7+ML+Explorer" alt="Data Science Student, Data Analyst, ML Explorer"/>
 
@@ -71,31 +71,31 @@
 <th align="left">Stack</th>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="56" height="56" alt="Power BI"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50" height="50" alt="Power BI"/></td>
 <td><b>Student Wellness &amp; Stress Analytics</b></td>
 <td>Cleans and engineers features from real student data to uncover stress patterns, visualized in an interactive Power BI dashboard</td>
 <td>Python, Power BI</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="48" height="48" alt=".NET"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="50" height="50" alt=".NET"/></td>
 <td><b>CogniCareer</b></td>
 <td>Three-role career platform (student, recruiter, admin) built to close real hiring-process gaps</td>
 <td>SQL, C#, HTML, CSS, JavaScript</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="50" height="50" alt="Python"/></td>
 <td><b>Customer Churn Analysis</b></td>
 <td>End-to-end churn modeling — ERD design, normalization &amp; feature engineering, powering a Power BI dashboard</td>
 <td>Python, SQL, Power BI</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" alt="React"/></td>
 <td><b>Lost And Found Campus Board</b></td>
 <td>A web platform built for university students to report and reclaim lost items — matching owners with found belongings on campus, solving a real everyday problem</td>
 <td>TypeScript, React, Node.js</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="48" height="48" alt="Kotlin"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="50" height="50" alt="Kotlin"/></td>
 <td><b>Quiz It</b></td>
 <td>An Android app that turns your study notes into practice questions. It integrates an external API to automatically generate true/false questions, multiple-choice questions, and short-answer prompts, making revision faster and more interactive</td>
 <td>Kotlin, API Integration</td>
@@ -106,10 +106,26 @@
 
 ## <img src="https://api.iconify.design/octicon:verified-24.svg?color=%237aa2f7" width="24" height="24" alt=""/> Certifications
 
-| Certification | Issuer | Credential |
-|---|---|---|
-| **[Microsoft Azure AI 901](https://www.linkedin.com/in/tasbeeha-abbasi-382045348)** | Microsoft | [View on LinkedIn](https://www.linkedin.com/in/tasbeeha-abbasi-382045348) |
-| **[Microsoft Office Specialist](https://www.linkedin.com/in/tasbeeha-abbasi-382045348)** | Microsoft | [View on LinkedIn](https://www.linkedin.com/in/tasbeeha-abbasi-382045348) |
+<table>
+<tr>
+<th align="left"></th>
+<th align="left">Certification</th>
+<th align="left">Issuer</th>
+<th align="left">Credential</th>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" height="30" alt="Azure"/></td>
+<td><b><a href="https://www.linkedin.com/in/tasbeeha-abbasi-382045348">Microsoft Azure AI 901</a></b></td>
+<td>Microsoft</td>
+<td><a href="https://www.linkedin.com/in/tasbeeha-abbasi-382045348">View on LinkedIn</a></td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/logos/microsoft-icon.svg" width="30" height="30" alt="Microsoft"/></td>
+<td><b><a href="https://www.linkedin.com/in/tasbeeha-abbasi-382045348">Microsoft Office Specialist</a></b></td>
+<td>Microsoft</td>
+<td><a href="https://www.linkedin.com/in/tasbeeha-abbasi-382045348">View on LinkedIn</a></td>
+</tr>
+</table>
 
 <br/>
 
