@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🎓 About
+## <img src="https://api.iconify.design/octicon:person-24.svg?color=%237aa2f7" width="24" height="24" alt=""/> About
 
 - BS Data Science student @ UET Lahore
 - Skilled in Data Analysis
@@ -32,7 +32,7 @@
 
 <br/>
 
-## 🛠️ Skills
+## <img src="https://api.iconify.design/octicon:tools-24.svg?color=%237aa2f7" width="24" height="24" alt=""/> Skills
 
 | Category | Tools |
 |---|---|
@@ -104,7 +104,7 @@
 
 <br/>
 
-## 🏅 Certifications
+## <img src="https://api.iconify.design/octicon:verified-24.svg?color=%237aa2f7" width="24" height="24" alt=""/> Certifications
 
 | Certification | Issuer | Credential |
 |---|---|---|
@@ -113,7 +113,7 @@
 
 <br/>
 
-## 🔄 The Build Loop
+## <img src="https://api.iconify.design/octicon:sync-24.svg?color=%237aa2f7" width="24" height="24" alt=""/> The Build Loop
 
 <div align="center">
 
@@ -142,43 +142,34 @@
 
 <br/>
 
-## 💭 Thoughts That Shape My Work
+## <img src="https://api.iconify.design/octicon:comment-discussion-24.svg?color=%237aa2f7" width="24" height="24" alt=""/> Thoughts That Shape My Work
 
 <div align="center">
-<table width="700">
-<tr>
-<td>
-<div align="center"><i>"Data doesn't lie, but it does whisper — you just have to listen closely enough to hear it."</i></div>
-<br/>
-<div align="right"><i>— On Analysis&nbsp;&nbsp;</i></div>
-</td>
-</tr>
-<tr>
-<td>
-<div align="center"><i>"Every model is wrong until you understand exactly why — then it's just wrong in a useful way."</i></div>
-<br/>
-<div align="right"><i>— On Machine Learning&nbsp;&nbsp;</i></div>
-</td>
-</tr>
-<tr>
-<td>
-<div align="center"><i>"Progress isn't a straight line from question to answer — it's a hundred small experiments that finally agree."</i></div>
-<br/>
-<div align="right"><i>— On Building&nbsp;&nbsp;</i></div>
-</td>
-</tr>
-</table>
+
+<p>
+<i>"Data doesn't lie, but it does whisper — you just have to listen closely enough to hear it."</i><br/>
+<sub><b>ON ANALYSIS</b></sub>
+<br/><br/>
+<i>"Every model is wrong until you understand exactly why — then it's just wrong in a useful way."</i><br/>
+<sub><b>ON MACHINE LEARNING</b></sub>
+<br/><br/>
+<i>"Progress isn't a straight line from question to answer — it's a hundred small experiments that finally agree."</i><br/>
+<sub><b>ON BUILDING</b></sub>
+</p>
+
 </div>
 
 <br/>
 
-## 🔗 Connect
+## <img src="https://api.iconify.design/octicon:link-24.svg?color=%237aa2f7" width="24" height="24" alt=""/> Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tasbeeha-abbasi-382045348">
-    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=16161e" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/tasbeehaabbasi">
-    <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7dcfff" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tasbeeha-abbasi-382045348">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7dcfff&labelColor=16161e" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/tasbeehaabbasi">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-1a1b27?style=for-the-badge&logo=github&logoColor=7dcfff&labelColor=16161e" alt="GitHub"/>
+</a>
+
+</div>
