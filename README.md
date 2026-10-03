@@ -144,20 +144,17 @@
 
 ## <img src="https://api.iconify.design/octicon:comment-discussion-24.svg?color=%237aa2f7" width="24" height="24" alt=""/> Thoughts That Shape My Work
 
-<div align="center">
+> **_"Data doesn't lie, but it does whisper — you just have to listen closely enough to hear it."_**
+>
+> <img src="https://img.shields.io/badge/ON%20ANALYSIS-7AA2F7?style=for-the-badge" alt="On Analysis"/>
 
-<p>
-<i>"Data doesn't lie, but it does whisper — you just have to listen closely enough to hear it."</i><br/>
-<sub><b>ON ANALYSIS</b></sub>
-<br/><br/>
-<i>"Every model is wrong until you understand exactly why — then it's just wrong in a useful way."</i><br/>
-<sub><b>ON MACHINE LEARNING</b></sub>
-<br/><br/>
-<i>"Progress isn't a straight line from question to answer — it's a hundred small experiments that finally agree."</i><br/>
-<sub><b>ON BUILDING</b></sub>
-</p>
+> **_"Every model is wrong until you understand exactly why — then it's just wrong in a useful way."_**
+>
+> <img src="https://img.shields.io/badge/ON%20MACHINE%20LEARNING-7AA2F7?style=for-the-badge" alt="On Machine Learning"/>
 
-</div>
+> **_"Progress isn't a straight line from question to answer — it's a hundred small experiments that finally agree."_**
+>
+> <img src="https://img.shields.io/badge/ON%20BUILDING-7AA2F7?style=for-the-badge" alt="On Building"/>
 
 <br/>
 
