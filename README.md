@@ -48,11 +48,13 @@
 
 <table>
 <tr>
-<td valign="middle" align="center">
-  <img src="https://streak-stats.demolab.com/?user=tasbeehaabbasi&theme=tokyonight&hide_border=true&background=1a1b27&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff" width="100%" alt="GitHub Streak Stats"/>
+<td width="50%" valign="middle" align="center">
+  <img src="https://streak-stats.demolab.com/?user=tasbeehaabbasi&theme=tokyonight&hide_border=true&background=1a1b27&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff&card_width=520&card_height=240" width="100%" alt="GitHub Streak Stats"/>
 </td>
-<td valign="middle" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasbeehaabbasi&layout=compact&langs_count=6&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" width="100%" alt="Most Used Languages"/>
+<td width="50%" valign="top" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasbeehaabbasi&layout=compact&langs_count=6&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&card_width=495" width="100%" alt="Most Used Languages"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tasbeehaabbasi&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&icon_color=7dcfff&ring_color=7dcfff&rank_icon=github&card_width=495" width="100%" alt="GitHub Stats"/>
 </td>
 </tr>
 </table>
@@ -71,31 +73,31 @@
 <th align="left">Stack</th>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50" height="50" alt="Power BI"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="55" height="55" alt="Power BI"/></td>
 <td><b>Student Wellness &amp; Stress Analytics</b></td>
 <td>Cleans and engineers features from real student data to uncover stress patterns, visualized in an interactive Power BI dashboard</td>
 <td>Python, Power BI</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="50" height="50" alt=".NET"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="55" height="55" alt=".NET"/></td>
 <td><b>CogniCareer</b></td>
 <td>Three-role career platform (student, recruiter, admin) built to close real hiring-process gaps</td>
 <td>SQL, C#, HTML, CSS, JavaScript</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="50" height="50" alt="Python"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="55" height="55" alt="Python"/></td>
 <td><b>Customer Churn Analysis</b></td>
 <td>End-to-end churn modeling — ERD design, normalization &amp; feature engineering, powering a Power BI dashboard</td>
 <td>Python, SQL, Power BI</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" alt="React"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="55" height="55" alt="React"/></td>
 <td><b>Lost And Found Campus Board</b></td>
 <td>A web platform built for university students to report and reclaim lost items — matching owners with found belongings on campus, solving a real everyday problem</td>
 <td>TypeScript, React, Node.js</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="50" height="50" alt="Kotlin"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="55" height="55" alt="Kotlin"/></td>
 <td><b>Quiz It</b></td>
 <td>An Android app that turns your study notes into practice questions. It integrates an external API to automatically generate true/false questions, multiple-choice questions, and short-answer prompts, making revision faster and more interactive</td>
 <td>Kotlin, API Integration</td>
